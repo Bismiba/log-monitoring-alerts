@@ -1,1 +1,4 @@
 "INFO: Server started" 
+"ERROR: Database connection failed" 
+"CRITICAL: Server crashed" 
+"CRITICAL: Server crashed" 
